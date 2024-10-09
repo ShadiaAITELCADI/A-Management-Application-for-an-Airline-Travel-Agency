@@ -1,6 +1,5 @@
 # A-Management-Application-for-an-Airline-Travel-Agency
-![Application Screenshot](images/screenshot.png)
-
+![image](https://github.com/user-attachments/assets/1dcfe50b-24e0-47bd-a4ea-79450811809d)
 ## Project Overview
 
 This project aims to create a **task management system** for a travel agency, offering detailed oversight of their development department. The system is designed to manage flight bookings, billing, customer information, and specialized travel offers, including **Phénix**, a personalized suggestion provided by the company.
