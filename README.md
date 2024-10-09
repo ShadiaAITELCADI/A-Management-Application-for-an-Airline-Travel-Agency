@@ -1,5 +1,5 @@
 # A-Management-Application-for-an-Airline-Travel-Agency
-
+![Application Screenshot](images/screenshot.png)
 
 ## Project Overview
 
