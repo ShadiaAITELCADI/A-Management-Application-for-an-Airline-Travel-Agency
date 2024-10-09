@@ -3,17 +3,24 @@
 ## Project Overview
 
 This project aims to create a **task management system** for a travel agency, offering detailed oversight of their development department. The system is designed to manage flight bookings, billing, customer information, and specialized travel offers, including **Phénix**, a personalized suggestion provided by the company.
-
+![image](https://github.com/user-attachments/assets/29519e84-6e6c-4982-a9f2-0b9f9cbca83b)
 The application is built to streamline the agency's operations by organizing data with high security, ensuring efficient customer service and operational management. Users will be able to navigate through different operations with options to add, modify, or delete information stored in the database.
 
 ## Key Features
-
+![image](https://github.com/user-attachments/assets/7de0865a-1c8c-4422-97bc-72891b452a0a)
 - **Flight Reservations**: Manage customer bookings with flexible options for regular and personalized Phénix travel offers.
+- 
 - **Billing System**: Generate and manage invoices for customer bookings and services.
-- **Customer Data Management**: Keep track of customer profiles and travel history with high-security storage.
-- **Comprehensive Dashboard**: Access all operations through an intuitive menu with options for modifications and updates in real-time.
-- **Personalized Offers**: Phénix offers are suggested based on customer preferences, enhancing user engagement.
+- ![image](https://github.com/user-attachments/assets/de23662e-d9c4-4fc4-8f25-10f23a834e73)
 
+- **Customer Data Management**: Keep track of customer profiles and travel history with high-security storage.
+- ![image](https://github.com/user-attachments/assets/adddbd18-58b2-4a21-b02c-83385a0670bb)
+
+- **Comprehensive Dashboard**: Access all operations through an intuitive menu with options for modifications and updates in real-time.
+- ![image](https://github.com/user-attachments/assets/6230cfea-358f-4d7f-8773-f631f09fa568)
+
+- **Personalized Offers**: Phénix offers are suggested based on customer preferences, enhancing user engagement.
+![image](https://github.com/user-attachments/assets/fc9ee427-b013-4976-9ac5-f3859aac64fe)
 ## Project Objectives
 
 - Develop a **desktop application** for travel agencies to manage bookings, billing, and customer data efficiently.
@@ -37,10 +44,3 @@ The development process follows a structured approach:
 3. **Toolset**: Implementation using Java for backend, SQL for database, and Swing for the user interface.
 4. **High-Security Protocols**: Ensuring all data transactions are securely managed.
 
-## How to Run
-
-To run this application on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/task-management-system.git
