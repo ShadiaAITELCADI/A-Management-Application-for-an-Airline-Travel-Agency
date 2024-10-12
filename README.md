@@ -1,4 +1,4 @@
-# A-Management-Application-for-an-Airline-Travel-Agency
+# A Management Application for an Airline Travel Agency
 ![image](https://github.com/user-attachments/assets/1dcfe50b-24e0-47bd-a4ea-79450811809d)
 ## Project Overview
 
@@ -44,3 +44,11 @@ The development process follows a structured approach:
 3. **Toolset**: Implementation using Java for backend, SQL for database, and Swing for the user interface.
 4. **High-Security Protocols**: Ensuring all data transactions are securely managed.
 
+## User experience
+https://github.com/user-attachments/assets/330758ce-b878-458d-9f0c-23c3c5267966
+
+## Contributors
+#### AIT EL CADI Shadia
+#### EL MIDAOUI Imane
+#### EL AMRANI ENNAJAR Tasnime
+#### ABOUJENANE Mariam
