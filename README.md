@@ -45,7 +45,6 @@ The development process follows a structured approach:
 4. **High-Security Protocols**: Ensuring all data transactions are securely managed.
 
 ## User experience
-https://github.com/user-attachments/assets/330758ce-b878-458d-9f0c-23c3c5267966
 
 ## Contributors
 #### AIT EL CADI Shadia
